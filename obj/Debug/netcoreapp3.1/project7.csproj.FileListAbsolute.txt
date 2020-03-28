@@ -1,0 +1,11 @@
+C:\project7\Alfa\bin\Debug\netcoreapp3.1\project7.exe
+C:\project7\Alfa\bin\Debug\netcoreapp3.1\project7.deps.json
+C:\project7\Alfa\bin\Debug\netcoreapp3.1\project7.runtimeconfig.json
+C:\project7\Alfa\bin\Debug\netcoreapp3.1\project7.runtimeconfig.dev.json
+C:\project7\Alfa\bin\Debug\netcoreapp3.1\project7.dll
+C:\project7\Alfa\bin\Debug\netcoreapp3.1\project7.pdb
+C:\project7\Alfa\obj\Debug\netcoreapp3.1\project7.csprojAssemblyReference.cache
+C:\project7\Alfa\obj\Debug\netcoreapp3.1\project7.AssemblyInfoInputs.cache
+C:\project7\Alfa\obj\Debug\netcoreapp3.1\project7.AssemblyInfo.cs
+C:\project7\Alfa\obj\Debug\netcoreapp3.1\project7.dll
+C:\project7\Alfa\obj\Debug\netcoreapp3.1\project7.pdb
